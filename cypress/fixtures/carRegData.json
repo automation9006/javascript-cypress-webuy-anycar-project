@@ -1,0 +1,22 @@
+[{
+  "carReg": "AD58 VNF",
+  "miles": "50000",
+  "carModel": "BMW",
+  "model":"1 SERIES DIESEL COUPE - 120d M Sport 2dr",
+  "year":"2008"
+},
+{
+  "carReg": "BW57 BOF",
+  "miles": "50000",
+  "carModel": "TOYOTA",
+  "model":"YARIS HATCHBACK - 1.0 VVT-i T2 3dr",
+  "year":"2008"
+},
+{
+  "carReg": "KT17 DLX",
+  "miles": "50000",
+  "carModel": "SKODA",
+  "model":"SUPERB DIESEL ESTATE - 2.0 TDI CR 190 Sport Line 5dr DSG",
+  "year":"2017"
+}
+]
